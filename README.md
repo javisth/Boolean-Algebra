@@ -4,7 +4,7 @@
 \
 Invented by George Boole\
 \
-Basic Operators&nsbp;&nsbp   |   &nsbp;&nsbp;Symbol&nsbp;&bsbp    |   &nsbp;&nsbp;Expression\
+Basic Operators&nbsp;&nbsp   |   &nbsp;&nbsp;Symbol&nbsp;&nbsp    |   &nbsp;&nbsp;Expression\
     AND           |     .       |      A.B        -> Binary\
     OR            |     +       |      A+B        -> Binary
     
