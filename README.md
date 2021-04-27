@@ -5,6 +5,6 @@
 Invented by George Boole\
 \
 Basic Operators&nbsp;&nbsp;   |   &nbsp;&nbsp;Symbol&nbsp;&nbsp;    |   &nbsp;&nbsp;Expression\
-    AND           |     .       |      A.B        -> Binary\
-    OR            |     +       |      A+B        -> Binary
+    AND&nbsp;&nbsp;           |     &nbsp;&nbsp;.&nbsp;&nbsp;       |      &nbsp;&nbsp;A.B&nbsp;&nbsp;        -> Binary\
+    OR &nbsp;&nbsp;           |     &nbsp;&nbsp;+&nbsp;&nbsp;       |      &nbsp;&nbsp;A+B&nbsp;&nbsp;        -> Binary
     
